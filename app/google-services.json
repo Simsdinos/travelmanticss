@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319641240144",
+    "firebase_url": "https://travelmanticcs.firebaseio.com",
+    "project_id": "travelmanticcs",
+    "storage_bucket": "travelmanticcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319641240144:android:1e2f566653e5e7fc",
+        "android_client_info": {
+          "package_name": "deno.sims.travelmanticss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319641240144-6j365e9mvvrvhkn90906ridbcdse33ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIJg3OZ92zjMJ--0Q4rx1J0eJ--pl3iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319641240144-6j365e9mvvrvhkn90906ridbcdse33ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
